@@ -2,9 +2,8 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I am a teaching assistant and demonstrator for Simon Myers' intercollegiate [Stochastic Models in Mathematical Genetics](http://www.stats.ox.ac.uk/~myers/mathgenteaching.html) course at the Department of Statistics offered as a part of the [Oxford Msc in Mathematical Sciencs (OMMS)](https://www.maths.ox.ac.uk/study-here/postgraduate-study/msc-mathematical-sciences-omms) and [BA/MMath Maths and Statistics](https://www.ox.ac.uk/admissions/undergraduate/courses-listing/mathematics-and-statistics?wssl=1). 
 
-Organize your courses by years, topics, or universities, however you like!

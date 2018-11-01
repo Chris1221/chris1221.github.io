@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Chris</strong> Cole
+title: <strong>Christopher</strong> Cole
 description: <a href="http://www.well.ox.ac.uk/home">Wellcome Trust Centre for Human Genetics</a>, <a href="https://ox.ac.uk">University of Oxford</a>
 
 profile:
