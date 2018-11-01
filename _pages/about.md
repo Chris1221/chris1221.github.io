@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Chris</strong> Cole
+description: <a href="http://www.well.ox.ac.uk/home">Wellcome Trust Centre for Human Genetics</a>, <a href="https://ox.ac.uk">University of Oxford</a>
 
 profile:
   align: right
@@ -15,9 +15,6 @@ profile:
 news: true
 social: true
 ---
+I’m a student in the DPhil Genomic Medicine and Statistics Programme at the University of Oxford (Exeter College) jointly funded by the Wellcome Trust and the Clarendon Fund. Currently I am working with Prof Gerton Lunter and Prof Mark McCarthy to understand how the human microbiome interacts with our genome to influence the risk of developing Type 2 Diabetes. I also have a strong interest in ancient DNA and studying history through the lens of genetics, and am working to understand ancient human population movement using machine learning. During my first year I worked with Prof. Simon Myers looking at Neanderthal introgression into human genetics for a research rotation. Previously I have worked extensively on developing new kinds of polygenic risk scores, understanding how stratified false disovery rate correction may be used in GWAS, and how gene environment interactions may affect cardiovascular disease. Please see the links below for an up-to-date record of my publications.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of work, I’m an avid hiker, coffee enthusiast, and home baker, though the last is a work in progress.
