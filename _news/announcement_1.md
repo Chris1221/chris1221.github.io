@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2018-11-1
 inline: true
 ---
 
-A simple inline announcement.
+In quick succession, a poster of our $SMC^2$ analyses has been presented at ASHG 2018 (by myself) in San Diego and ProbGen in Cold Spring Harbour (by Gerton). 
