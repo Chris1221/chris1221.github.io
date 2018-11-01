@@ -83,7 +83,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Cole
 
   style: apa
   locale: en
