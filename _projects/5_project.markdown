@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Project 5
-description: a project with a background image
-img: /assets/img/1.jpg
+title: LSHTM
+description: CardioMetabolic Polygenic Risk Scores
+img: /assets/img/lshtm.png
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
