@@ -2,11 +2,13 @@
 layout: about
 permalink: /
 title: <strong>Christopher</strong> Cole
-description: <a href="http://www.well.ox.ac.uk/home">Wellcome Trust Centre for Human Genetics</a>, <a href="https://ox.ac.uk">University of Oxford</a>
+description: <a href="http://www.well.ox.ac.uk/home">Wellcome Centre for Human Genetics</a>, <a href="https://ox.ac.uk">University of Oxford</a>
 
 profile:
   align: right
   image: prof_pic.jpg
+  address: >
+    <p>Old city gates in Xi'an</p>
 news: true
 social: true
 ---
