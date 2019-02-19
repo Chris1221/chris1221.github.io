@@ -13,7 +13,7 @@ news: true
 social: true
 ---
 
-I'm a student in the [DPhil Genomic Medicine and Statistics](https://www.ox.ac.uk/admissions/graduate/courses/dphil-genomic-medicine-and-statistics?wssl=1) program at the University of Oxford, jointly funded by the [Wellcome Trust](http://www.well.ox.ac.uk/home) and the [Clarendon Fund](http://www.ox.ac.uk/clarendon/about). I graduated with an Honours BSc in Biomedical Science specializing in Biostatistics from the Univeristy of Ottawa in 2017. 
+I'm a student in the [DPhil Genomic Medicine and Statistics](https://www.ox.ac.uk/admissions/graduate/courses/dphil-genomic-medicine-and-statistics?wssl=1) program at the University of Oxford, jointly funded by the [Wellcome Trust](http://www.well.ox.ac.uk/home) and the [Clarendon Fund](http://www.ox.ac.uk/clarendon/about). I graduated with an Honours BSc in Biomedical Science specializing in Biostatistics from the University of Ottawa in 2017. 
 
  
 
