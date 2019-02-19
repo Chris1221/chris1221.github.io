@@ -5,8 +5,7 @@ permalink: /research/
 description: at the Wellcome Centre for Human Genetics with Gerton Lunter and Mark McCarthy 
 ---
 
-Currently I am working at the intersection of deep learning and human genetics to understand how the microbiome may regulate gene expression in Type 2 Diabetes. As a part of this project, we design convolutional neural networks to predict expression and incorporate metagenomic sequence reads to understand independent regulation from the microbiome. 
-
+Currently, I am using deep learning to understand more about fundamental cellular processes that regulate transcription at both a spatial and temporal level. A core aspect of this effort is developing new graphical methods for machine learning.
 <div class="img_row">
     <img class="col two left" src="../assets/img/afr.png"/>
     <img class="col one left" src="../assets/img/hmm.png"/>
