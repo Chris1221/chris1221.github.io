@@ -17,7 +17,10 @@ I'm a student in the [DPhil Genomic Medicine and Statistics](https://www.ox.ac.u
 
  
 
-Alongside my supervisors [Gerton Lunter](https://www.well.ox.ac.uk/research/research-groups/lunter-group) and [Mark McCarthy](https://www.ndm.ox.ac.uk/principal-investigators/researcher/mark-mccarthy), I am developing deep learning tools to understand how variation in the human genome affects fundamental cellular processes and disease risk. I am also passionate about using genetics to study history, and am studying ancient human population migrations using a novel particle filter approach for demographic inference.
+Alongside my supervisors [Gerton Lunter](https://www.well.ox.ac.uk/research/research-groups/lunter-group) and [Mark McCarthy](https://www.ndm.ox.ac.uk/principal-investigators/researcher/mark-mccarthy), I have two main areas of research: 
+
+- Developing deep learning tools to study functional genomics and understand the consequences of sequence variation. 
+- Using whole genome sequencing to understand past demographic events, especially in the Late Pleistocene. 
 
 Outside of work, I am an avid hiker, coffee enthusiast, and home baker (though the last is a work in progress).
 
