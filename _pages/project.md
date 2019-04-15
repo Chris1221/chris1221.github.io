@@ -5,7 +5,8 @@ permalink: /research/
 description: at the Wellcome Centre for Human Genetics with Gerton Lunter and Mark McCarthy 
 ---
 
-Currently, I am using deep learning to understand more about fundamental cellular processes that regulate transcription at both a spatial and temporal level. A core aspect of this effort is developing new graphical methods for machine learning.
+Currently, I am using deep learning to understand more about fundamental cellular processes that regulate transcription at and splicing. To do this, I am building new tools to anlayse RNA sequencing data.  
+
 <div class="img_row">
     <img class="col two left" src="../assets/img/d-stats.png"/>
     <img class="col one left" src="../assets/img/hmm.png"/>
@@ -14,7 +15,7 @@ Currently, I am using deep learning to understand more about fundamental cellula
 	Inference of alleles which may be derived from Neanderthal introgression.     
 </div>
 
-Additionally, I am collaborating to characterize ancient migration events with Monte Carlo methods including [SMCSMC](https://www.biorxiv.org/content/early/2018/08/01/382218). We use traditional approaches for inferring ancestry including $$D$$ statistics and $$F_4$$ ratios alongside actual simulation based inference of ancestral recombination graphs to derive estimates for assymetric migration. 
+Additionally, I am working to understand ancient migration events using contemporary genomes and methods like SMCSMC. 
 
 --- 
 
