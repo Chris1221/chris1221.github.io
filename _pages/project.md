@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: at the Wellcome Centre for Human Genetics with Gerton Lunter and Mark McCarthy 
+description: using machine learning to understand fundamental concepts in biology.
 ---
 
 Currently, I am using deep learning to understand more about fundamental cellular processes that regulate transcription at and splicing. To do this, I am building new tools to anlayse RNA sequencing data.  
