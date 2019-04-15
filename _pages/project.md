@@ -7,7 +7,7 @@ description: at the Wellcome Centre for Human Genetics with Gerton Lunter and Ma
 
 Currently, I am using deep learning to understand more about fundamental cellular processes that regulate transcription at both a spatial and temporal level. A core aspect of this effort is developing new graphical methods for machine learning.
 <div class="img_row">
-    <img class="col two left" src="../assets/img/afr.png"/>
+    <img class="col two left" src="../assets/img/d-stats.png"/>
     <img class="col one left" src="../assets/img/hmm.png"/>
 </div>
 <div class="col three caption">
