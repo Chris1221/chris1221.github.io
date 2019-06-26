@@ -5,7 +5,7 @@ permalink: /research/
 description: using machine learning to understand fundamental concepts in biology.
 ---
 
-Currently, I am using deep learning to understand more about fundamental cellular processes that regulate transcription at and splicing. To do this, I am building new tools to anlayse RNA sequencing data.  
+My current work involves using sequence based models to learn about how post-transcriptional regulation may affect RNA stability. A major theme is trying to understand the contributions and interactions between different regulatory mechanisms in a cell-type specific way.  
 
 <div class="img_row">
     <img class="col two left" src="../assets/img/d-stats.png"/>
@@ -15,7 +15,7 @@ Currently, I am using deep learning to understand more about fundamental cellula
 	Inference of alleles which may be derived from Neanderthal introgression.     
 </div>
 
-Additionally, I am working to understand ancient migration events using contemporary genomes and methods like SMCSMC. 
+I'm also working to develop methods to study ancient migration events using contemporary genomes. For more information, check out [smcsmc](https://github.com/luntergroup/smcsmc).
 
 --- 
 

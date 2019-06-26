@@ -13,7 +13,7 @@ news: true
 social: true
 ---
 
-I'm interested in studying fundamental questions in biology using machine learning, as well as using genetics to learn more about ancient history. Check out my [recent publications](https://scholar.google.com/citations?user=5W10qpIAAAAJ&hl=en) for more information.
+I'm interested in studying functional genomics using machine learning, as well as learning about ancient history from DNA. Check out my [recent publications](https://scholar.google.com/citations?user=5W10qpIAAAAJ&hl=en) for more information.
 
 I'm a student in the [DPhil Genomic Medicine and Statistics](https://www.ox.ac.uk/admissions/graduate/courses/dphil-genomic-medicine-and-statistics?wssl=1) program at the University of Oxford, jointly funded by the [Wellcome Trust](http://www.well.ox.ac.uk/home) and the [Clarendon Fund](http://www.ox.ac.uk/clarendon/about). I work at the Wellcome Centre for Human Genetics and Weatherall Institute of Molecular Medicine (WIMM) with my supervisor [Gerton Lunter](https://www.imm.ox.ac.uk/research/units-and-centres/mrc-wimm-centre-for-computational-biology/groups/lunter-group).  I graduated with an Honours BSc in Biomedical Science specializing in Biostatistics from the University of Ottawa in 2017. 
 
