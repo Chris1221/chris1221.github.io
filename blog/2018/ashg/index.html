@@ -6,14 +6,14 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Christopher Cole</title>
+  <title>Christopher Cole | American Society of Human Genetics</title>
   <meta name="description" content="Personal Website for Chris Cole.  
 ">
 
   <link rel="shortcut icon" href="/assets/img/favicon.ico">
 
   <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="canonical" href="/blog/">
+  <link rel="canonical" href="/blog/2018/ashg/">
 </head>
 
 
@@ -87,24 +87,51 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="header-bar">
-  <h1>Asymptotically Inexact</h1>
-  <h2>Thoughts on genetics, statistics, and life.</h2>
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">American Society of Human Genetics</h1>
+    <p class="post-meta">July 19, 2018</p>
+  </header>
+
+  <article class="post-content">
+    <p>As explained by my supervisor.</p>
+
+<h3 id="wright-fisher">Wright Fisher</h3>
+
+<p>Take a population of <script type="math/tex">N</script> diploid, <script type="math/tex">2N</script> haploid, individuals. Each of these individuals has a parent, which is chosen completely randomly backwards in time. Occasionally, with a probability <script type="math/tex">\frac{1}{N}</script>, two individuals will have the same parent, and their lineages become the same or “coalesce”. Overall, the probability of a coalescence event in any of the individuals in the population is the number of combinations of individuals possible multiplied by the probability that they will coalesce, or <script type="math/tex">\binom{N}{2} \frac{1}{N}</script>. Kingman showed that in the limit, as <script type="math/tex">N \rightarrow \infty</script>, the coalescent times <script type="math/tex">T_i</script> are exponentially and independantly distributed as <script type="math/tex"></script> f_{T_i} (t_i) = \binom{i}{2} e^{- \binom{i}{2}t_i} <script type="math/tex"></script> such that <script type="math/tex">t_i \geq 0</script> and <script type="math/tex">i = 2, \dots, n</script>. Mean and variance accordingly follow. Note that this is valid for a particular time scaling, see Wakeley.</p>
+
+<p>This is basically all of the background needed to introduce migration.</p>
+
+<h3 id="migration">Migration</h3>
+
+<p>Consider that instead of $N$ diploid invididuals, we are interested in two populations from different geographic locations or “islands”. Individuals have the opportunity to move from island to island. Denote these as “red” and “blue” becuase these were the pen colours available.</p>
+
+<p>Looking forward in time, we take an individual from one of the populations and track their lineage. Create a row vector $\mathbf{P}$ which denotes the population of the individual $\begin{pmatrix} 1 &amp; 0 \end{pmatrix}$. In this case, our individual starts in the red population.</p>
+
+<p>We know that the probability of the individual either staying in their current population or migrating to the other population is 1. Call the probability of being in a population at a particulular time $q(t) \in \mathbb{R}^2$. Following from the previous,<script type="math/tex">q_1(t) + q_2(t) = 1</script> Probability of being in a particular population changes from generation to generation according to a rate matrix $\mathbf{A}$ where the columns sum to 0.</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\mathbf{A} = \begin{bmatrix} -r_{12} & r_{21} \\ r_{12} & -r_{21} \end{bmatrix} %]]></script>
+
+<p><strong>Sidebar</strong>: How do we know that the columns sum to zero?</p>
+
+<p>We want the probability $q(t)$ to sum to 1 each generation:</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{aligned} \begin{pmatrix} 1 & 1 \end{pmatrix} q(t) &= 1 \\ \frac{d}{dt} \begin{pmatrix} 1 & 1 \end{pmatrix} q(t) &= 0 \\ \begin{pmatrix} 1 & 1 \end{pmatrix} \mathbf{A} q(t) &= 0 \\ \\ \begin{pmatrix} 1 & 1 \end{pmatrix} \mathbf{A} &= \begin{pmatrix} 0 & 0 \end{pmatrix} \end{aligned} %]]></script>
+
+<p>So $\mathbf{A}$ must have columns which sum to zero in order for this property to hold.</p>
+
+<hr />
+
+<p>This equation can now be solved numerically.</p>
+
+  </article>
+
+  
+
 </div>
-
-
-<ul class="post-list">
-  
-    <li>
-      <h2><a class="post-title" href="/blog/2018/ashg/">American Society of Human Genetics</a></h2>
-      <p class="post-meta">July 19, 2018</p>
-      <p>The wild wild west (coast) of research.</p>
-    </li>
-  
-</ul>
-
-
-
 
       </div>
     </div>
