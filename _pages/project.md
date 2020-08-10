@@ -6,9 +6,14 @@ description: using machine learning to understand fundamental concepts in biolog
 ---
 
 My research involves developing machine learning algorithms to study the regulation of gene expression and chromatin accessibility in different cellular contexts.  I'm also interested in demographic inference from modern genomes, and mathematical population genetics more broadly.
+
 --- 
 
 ### Previous Research
+
+#### @ Vector Institute, University of Toronto ([Quaid Morris](http://www.morrislab.ca/))
+
+I collaborated with, and visited, the Morris Lab to developed a deep learning model of RNA stability from sequence.
 
 #### @ London School of Hygiene and Medicine ([Frank Dudbridge](https://www2.le.ac.uk/departments/health-sciences/people/staff-pages/professorial-staff/professor-frank-dudbridge))
 
