@@ -5,18 +5,7 @@ permalink: /research/
 description: using machine learning to understand fundamental concepts in biology.
 ---
 
-My current work involves using sequence based models to learn about how post-transcriptional regulation may affect RNA stability. A major theme is trying to understand the contributions and interactions between different regulatory mechanisms in a cell-type specific way.  
-
-<div class="img_row">
-    <img class="col two left" src="../assets/img/d-stats.png"/>
-    <img class="col one left" src="../assets/img/hmm.png"/>
-</div>
-<div class="col three caption">
-	Inference of alleles which may be derived from Neanderthal introgression.     
-</div>
-
-I'm also working to develop methods to study ancient migration events using contemporary genomes. For more information, check out [smcsmc](https://github.com/luntergroup/smcsmc).
-
+My research involves developing machine learning algorithms to study the regulation of gene expression and chromatin accessibility in different cellular contexts.  I'm also interested in demographic inference from modern genomes, and mathematical population genetics more broadly.
 --- 
 
 ### Previous Research
