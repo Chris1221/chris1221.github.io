@@ -13,7 +13,11 @@ My research involves developing machine learning algorithms to study the regulat
 
 #### @ Vector Institute, University of Toronto ([Quaid Morris](http://www.morrislab.ca/))
 
-I collaborated with, and visited, the Morris Lab to developed a deep learning model of RNA stability from sequence.
+I collaborated with, and visited, the Morris Lab to develop a deep learning model of RNA stability from sequence.
+
+#### @ Statistics Department, University of Oxford ([Simon Myers](https://myersgroup.github.io/))
+
+I spent my first research rotation with the Myers group (and [Leo Speidel](https://leospeidel.com/) in particular), constructing ancestral recombination graphs from modern and archaic sequences to identify regions of putative introgressions. 
 
 #### @ London School of Hygiene and Medicine ([Frank Dudbridge](https://www2.le.ac.uk/departments/health-sciences/people/staff-pages/professorial-staff/professor-frank-dudbridge))
 
