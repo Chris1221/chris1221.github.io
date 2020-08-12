@@ -7,6 +7,7 @@ description: Some tools that I have developed, or helped to develop.
 
 - [smcsmc](https://github.com/luntergroup/smcsmc) [c++, python] Inference of the ancestral recombination graph and demographic events from whole genome sequence data.
 - [stdpopsim](https://github.com/popsim-consortium/stdpopsim) [python] A community-maintained standard library of population genetic models.
+- [aavcf](https://github.com/Chris1221/aavcf) [`c++`] A small convenience tool to swap allelic encodings. 
 - [goldi](https://github.com/Chris1221/goldi) [c++, R] R package for identifying multi-word terms (such as in Gene Ontology) in free form text with application to the biomedical literature.
 
 ### Web tools
