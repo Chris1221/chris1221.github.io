@@ -5,9 +5,19 @@
     {% if page.layout != "about" %}
     <span class="site-title">
         {% assign name = site.name | split: ' ' %}
-        <strong>{{ name | first }}</strong> {{ name | last }}
+	<a href="{{ site.baseurl | prepend: site.url }}/">
+		<img src="../assets/img/dna.png" width="35"> </a> <strong>{{ name | first }}</strong> {{ name | last }}
     </span>
     {% endif %}
+
+    {% if page.layout == "about" %}
+    <span class="site-title">
+	<a href="{{ site.baseurl | prepend: site.url }}/">
+	    <img src="../assets/img/dna.png" width="35">
+	</a>
+    </span>
+    {% endif %}
+
 
     <nav class="site-nav">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
