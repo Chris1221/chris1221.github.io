@@ -38,3 +38,17 @@ My thesis focused on combining polygenic risk scores across different predisposi
 #### @ University of Ottawa ([Stephane Aris-Brosou](https://science.uottawa.ca/biology/people/aris-brosou-stephane))
 
 I designed and implemented a rejection sampler to determine phylogeny topology in viral evolution. And started learning `R`!  
+
+---
+
+## Teaching
+
+### Stochastic Models in Mathematical Genetics
+#### Department of Statistics, MT 2018
+
+Teaching assistant and demonstrator for Simon Myers’ intercollegiate Stochastic Models in Mathematical Genetics course at the Department of Statistics offered as a part of the Oxford Msc in Mathematical Sciences (OMMS) and BA/MMath Maths and Statistics.
+
+### Machine Learning for Genomics (MT 2020)
+#### Wellcome Centre for Human Genetics, MT 2020
+
+Lecture and assist in the delivery of tutorial sessions for Gerton Lunter's Machine Learning for Genomic course delivered at the Wellcome Centre for Human Genetics as a part of the Medical Sciences Doctoral Training Centre for incoming DPhil Genomic Medicine and Statistics students.
