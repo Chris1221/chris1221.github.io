@@ -56,4 +56,4 @@ Give lecture on current applications of CNNs to genomics and assist in the deliv
 ### Admissions Note Taker 
 #### [Somerville College](https://some.ox.ac.uk), MT 2020
 
-Assist [Professor Robert Davies](https://www.stats.ox.ac.uk/all-people/professor-robert-davies/) to conduct admissions interviews for undergraduate mathematics, statistics, and computer science over four days, taking notes and asking questions while critically judging responses.
+Assist [Professor Robert Davies](https://www.stats.ox.ac.uk/all-people/professor-robert-davies/) to conduct admissions interviews for undergraduate mathematics, statistics, and computer science, taking notes, and asking questions while critically judging responses.
