@@ -17,6 +17,17 @@ description: Some tools that I have developed, or helped to develop.
 	- Install from [Pypi](https://pypi.org/project/yamldoc/).
 - [genomic_interval_pipeline](https://github.com/Chris1221/genomic_interval_pipeline) [`Rust`] Creates an HDF5 database for Keras out of genomic regions and their annotations. A (much faster) drop in replacement for the Basset pre-processing pipeline. 
 	- Install from [crates.io](https://crates.io/crates/genomic_interval_pipeline).
+- [scJaccard](https://github.com/Chris1221/scJaccard) [`Rust`] Pure rust computation of the continuous Jaccard index at a single cell level
+	- Install from source.
+
+### Work in progress
+
+These packages are either incomplete or undocumented, but are public and still contain some useful code for anyone who likes a little digging.
+
+- [deepstab](https://github.com/Chris1221/deepstab) [`python`] All in one processing tool and deep learning model to predict RNA stability from sequence. 
+	- The entire pipeline is usable but almost completely undocumented.  
+- [ancient_african_admixture](https://github.com/Chris1221/ancient_african_admixture) Processing pipelines and analysis for all of results shown in Cole et al 2021, currently under review.
+	- This code may be useful for those wanting a real world example of using SMCSMC and is documented, but may change before the publication of my paper.
 
 ### Fun projects
 
