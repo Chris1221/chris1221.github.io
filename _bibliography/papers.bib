@@ -1,3 +1,17 @@
+@article{10.1371/journal.pone.0247647,
+abstract = {Demographic events shape a population's genetic diversity, a process described by the coalescent-with-recombination model that relates demography and genetics by an unobserved sequence of genealogies along the genome. As the space of genealogies over genomes is large and complex, inference under this model is challenging. Formulating the coalescent-with-recombination model as a continuous-time and -space Markov jump process, we develop a particle filter for such processes, and use waypoints that under appropriate conditions allow the problem to be reduced to the discrete-time case. To improve inference, we generalise the Auxiliary Particle Filter for discrete-time models, and use Variational Bayes to model the uncertainty in parameter estimates for rare events, avoiding biases seen with Expectation Maximization. Using real and simulated genomes, we show that past population sizes can be accurately inferred over a larger range of epochs than was previously possible, opening the possibility of jointly analyzing multiple genomes under complex demographic models. Code is available at https://github.com/luntergroup/smcsmc.},
+author = {Henderson, Donna and Zhu, Sha (Joe) and Cole, Christopher B and Lunter, Gerton},
+doi = {10.1371/journal.pone.0247647},
+journal = {PLOS ONE},
+number = {3},
+pages = {1--24},
+publisher = {Public Library of Science},
+title = {{Demographic inference from multiple whole genomes using a particle filter for continuous Markov jump processes}},
+url = {https://doi.org/10.1371/journal.pone.0247647},
+volume = {16},
+year = {2021}
+}
+
 @article{Cole2020,
 abstract = {Genetic diversity across human populations has been shaped by demographic history, making it possible to infer past demographic events from extant genomes. However, demographic inference in the ancient past is difficult, particularly around the out-of-Africa event in the Late Middle Paleolithic, a period of profound importance to our species' history. Here we present SMCSMC, a Bayesian method for inference of time-varying population sizes and directional migration rates under the coalescent-with-recombination model, to study ancient demographic events. We find evidence for substantial migration from the ancestors of present-day Eurasians into African groups between 40 and 70 thousand years ago, predating the divergence of Eastern and Western Eurasian lineages. This event accounts for previously unexplained genetic diversity in African populations, and supports the existence of novel population substructure in the Late Middle Paleolithic. Our results indicate that our species' demographic history around the out-of-Africa event is more complex than previously appreciated.
 
@@ -10,17 +24,7 @@ journal = {bioRxiv},
 title = {{Ancient Admixture into Africa from the ancestors of non-Africans}},
 year = {2020}
 }
-@article{Henderson2018,
-abstract = {Demographic events shape a population's genetic diversity, with the coalescent-with-recombination (CwR) model quantifying how the two are related through a sequence of genealogies. However, inferring demography from genome sequences is challenging because genealogies are only weakly constrained by polymorphisms, and the space of genealogies over genomes is huge. Here we show that particle filters are a promising approach to demographic inference. We introduce a continuous-sequence approximation of the CwR, resulting in a continuous-time and -space Markov jump process. We develop a particle filter algorithm for such processes, and introduce the unbounded-lookahead particle filter, generalising the unit-lookahead Auxiliary Particle Filter for discrete-time models. Using Variational Bayes for parameter inference, we can analyze up to four diploid samples simultaneously, resulting in accurate inferences of past population sizes over a larger range of epochs than was previously possible. Abbreviations : EM : expectation maximization; VB : variational Bayes; IS : importance sampling},
-author = {Henderson, Donna and Zhu, Sha (Joe) and Cole, Christopher B. and Lunter, Gerton},
-doi = {10.1101/382218},
-file = {:Users/ccole/repos/papers/382218v2.full.pdf:pdf},
-journal = {bioRxiv},
-keywords = {Algorithm,Auxiliary particle filter,Bayes' theorem,Biology,Genetics,Inference,Jump,Jump process,Markov chain,Particle filter,Population},
-pages = {382218},
-title = {{Demographic inference using particle filters for continuous Markov jump processes}},
-year = {2018}
-}
+
 @article{Cole2014,
 abstract = {Recent genome-wide association studies (GWAS) have identified multiple loci robustly associated with plasma lipids, which also contribute to extreme lipid phenotypes. However, these common genetic variants explain less than 12{\%} of variation in lipid traits.  Adiposity is also an important determinant of plasma lipoproteins, particularly plasma triglycerides (TG) and high density lipoprotein cholesterol (HDLc) concentrations.  Thus, interactions between genes and clinical phenotypes may contribute to this unexplained heritability.  We have applied a weighted genetic risk score (GRS) for each of plasma TGs and HDLc in two large cohorts at the extremes of body mass index (BMI).  Both BMI and GRS were strongly associated with these lipid traits. A significant interaction between obese/lean status and GRS was noted for each of TG (PInteraction = 2.87X10-4) and HDLc (PInteraction = 1.05X10-3). These interactions were largely driven by single nucleotide polymorphisms (SNPs) tagging APOA5, GCKR and LPL for TG, and CETP, GALNT2, LIPG and PLTP for HDLc.  In contrast, the GRSLDLc  X adiposity interaction was not significant. Sexual dimorphism was evident for the GRSHDL on HDLc in obese (PInteraction = 0.016) but not lean subjects. SNP by BMI interactions may provide biological insight into specific genetic associations and missing heritability. },
 annote = {10.1194/jlr.P052522},
