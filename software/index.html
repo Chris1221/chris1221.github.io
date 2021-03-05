@@ -6,14 +6,14 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Christopher Cole</title>
+  <title>Christopher Cole | software</title>
   <meta name="description" content="Personal Website for Chris Cole.  
 ">
 
   <link rel="icon" type="image/png" href="/assets/img/dna2.png">
 
   <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="canonical" href="/blog/">
+  <link rel="canonical" href="/software/">
 </head>
 
 
@@ -90,24 +90,91 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="header-bar">
-  <h1>Asymptotically Inexact</h1>
-  <h2>Thoughts on genetics, statistics, and life.</h2>
-</div>
+        <div class="post">
 
+  <header class="post-header">
+    <h1 class="post-title">software</h1>
+    <h5 class="post-description">Some tools that I have developed, or helped to develop.</h5>
+  </header>
 
-<ul class="post-list">
-  
-    <li>
-      <h2><a class="post-title" href="/blog/2018/ashg/">American Society of Human Genetics</a></h2>
-      <p class="post-meta">July 19, 2018</p>
-      <p>The wild wild west (coast) of research.</p>
-    </li>
-  
+  <article class="post-content software clearfix">
+    <ul>
+  <li><a href="https://github.com/luntergroup/smcsmc">smcsmc</a> [<code class="highlighter-rouge">c++</code>, <code class="highlighter-rouge">python</code>] Inference of the ancestral recombination graph and demographic events from whole genome sequence data.
+    <ul>
+      <li>Install with <a href="https://anaconda.org/luntergroup/smcsmc">conda</a>.</li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/popsim-consortium/stdpopsim">stdpopsim</a> [<code class="highlighter-rouge">python</code>] A community-maintained standard library of population genetic models.
+    <ul>
+      <li>Install from <a href="https://pypi.org/project/stdpopsim/">Pypi</a>.</li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/Chris1221/aavcf">aavcf</a> [<code class="highlighter-rouge">c++</code>] Convert allelic encodings from major/minor to ancestral/derived in VCF files.
+    <ul>
+      <li>Install from source.</li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/Chris1221/goldi">goldi</a> [<code class="highlighter-rouge">c++</code>, <code class="highlighter-rouge">R</code>] Identification of multi-word terms (such as in Gene Ontology) in free form text with application to the biomedical literature.
+    <ul>
+      <li>Install from <a href="https://cran.r-project.org/web/packages/goldi/index.html">CRAN</a>.</li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/Chris1221/yamldoc">yamldoc</a> [<code class="highlighter-rouge">python</code>] A dependency free documentation generator for YAML formatted data.
+    <ul>
+      <li>Install from <a href="https://pypi.org/project/yamldoc/">Pypi</a>.</li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/Chris1221/genomic_interval_pipeline">genomic_interval_pipeline</a> [<code class="highlighter-rouge">Rust</code>] Creates an HDF5 database for Keras out of genomic regions and their annotations. A (much faster) drop in replacement for the Basset pre-processing pipeline.
+    <ul>
+      <li>Install from <a href="https://crates.io/crates/genomic_interval_pipeline">crates.io</a>.</li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/Chris1221/scJaccard">scJaccard</a> [<code class="highlighter-rouge">Rust</code>] Pure rust computation of the continuous Jaccard index at a single cell level
+    <ul>
+      <li>Install from source.</li>
+    </ul>
+  </li>
 </ul>
 
+<h3 id="work-in-progress">Work in progress</h3>
 
+<p>These packages are either incomplete or undocumented, but are public and still contain some useful code for anyone who likes a little digging.</p>
 
+<ul>
+  <li><a href="https://github.com/Chris1221/deepstab">deepstab</a> [<code class="highlighter-rouge">python</code>] All in one processing tool and deep learning model to predict RNA stability from sequence.
+    <ul>
+      <li>The entire pipeline is usable but almost completely undocumented.</li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/Chris1221/ancient_african_admixture">ancient_african_admixture</a> Processing pipelines and analysis for all of results shown in Cole et al 2021, currently under review.
+    <ul>
+      <li>This code may be useful for those wanting a real world example of using SMCSMC and is documented, but may change before the publication of my paper.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="fun-projects">Fun projects</h3>
+
+<ul>
+  <li><a href="https://github.com/Chris1221/allerID">allerID</a> [<code class="highlighter-rouge">R</code>, <code class="highlighter-rouge">shiny</code>] Web application to identify allergens in lists of ingredients using <a href="https://github.com/Chris1221/goldi">goldi</a>.
+    <ul>
+      <li>Hosted on <a href="https://ccole.shinyapps.io/allerID/">shinyapps.io</a></li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/Chris1221/epic_rpg_converter">rpg_epic_converter</a> [<code class="highlighter-rouge">python</code>] A small discord bot implementing a graph-based conversion strategy between resources in a role playing game, EPIC RPG.
+    <ul>
+      <li>Install from <a href="https://top.gg/bot/773260807638089768">top.gg</a>.</li>
+    </ul>
+  </li>
+</ul>
+
+  </article>
+
+  
+
+  
+
+</div>
 
       </div>
     </div>
