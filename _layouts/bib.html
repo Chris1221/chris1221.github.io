@@ -1,13 +1,13 @@
 ---
 ---
 
-{% if entry.abbr %}
-  {% if site.data.venues[entry.abbr] %}
-    <abbr>[<a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a>]</abbr>
-  {% else %}
-    <abbr>[{{entry.abbr}}]</abbr>
-  {% endif %}
-{% endif %}
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div id="blah" class="center" style="position: absolute; left: 100%; top: 5%">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="{{entry.doi}}" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+</div>
 
 <div id="{{entry.key}}">
   {% if entry.type == "thesis" %}
@@ -86,6 +86,10 @@
     [<a href="{{ entry.code }}" target="_blank">Code</a>]
   {% endif %}
   </span>
+
+
+
+
 
   <!-- Hidden abstract block -->
   {% if entry.abstract %}
