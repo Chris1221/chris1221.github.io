@@ -5,9 +5,19 @@ permalink: /research/
 description: using machine learning to understand fundamental concepts in biology.
 ---
 
-My research involves developing machine learning algorithms to study the regulation of gene expression and chromatin accessibility in different cellular contexts.  I'm also interested in demographic inference from modern genomes, and mathematical population genetics more broadly.
+Summaries of previous (and occasionally ongoing) research projects.
 
 --- 
+
+### Doctoral Thesis
+
+#### A particle filter for demographic inference and an ancient back-migration to Africa
+
+This project involved the developed of the SMC2 sequential Monte Carlo sampler to sample ancestral recombination graphs from whole genome sequencing data and infer population demographic parameters, especially directional migration. I used the SMC2 method to show that a particularly impactful period of directional migration existed somewhere between 40,000 and 70,000 years in the past and is present in the histories of many African populations.  
+
+#### Topic modelling for bulk ATAC-seq applied to MLL-r leukemia
+
+I developed an adaptation of the cisTopic latent dirichlet allocation topic modelling framework for bulk chromatin accessibility data and applied it to patient data in a particularly impactful form of blood cancer. A publication for this work is in preperation. 
 
 ### Previous Research
 

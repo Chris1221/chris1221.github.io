@@ -13,10 +13,10 @@ news: true
 social: true
 ---
 
-I'm interested in studying functional genomics using machine learning, as well as learning about ancient history from DNA. Check out my [recent publications](https://scholar.google.com/citations?user=5W10qpIAAAAJ&hl=en) for more information.
+I am a research scientist at [Deep Genomics](https://deepgenomics.com/) working on computational biology and statistical genetics. Broadly, I'm interested in how we can use machine learning to understand how transcription and translation are regulated. I also have interests in population genetics. 
 
-I'm a student in the [DPhil Genomic Medicine and Statistics](https://www.ox.ac.uk/admissions/graduate/courses/dphil-genomic-medicine-and-statistics?wssl=1) program at the University of Oxford, jointly funded by the [Wellcome Trust](http://www.well.ox.ac.uk/home) and the [Clarendon Fund](http://www.ox.ac.uk/clarendon/about). I work at the Wellcome Centre for Human Genetics and Weatherall Institute of Molecular Medicine (WIMM) with my supervisors [Gerton Lunter](https://www.imm.ox.ac.uk/research/units-and-centres/mrc-wimm-centre-for-computational-biology/groups/lunter-group), [Thomas Milne](https://www.rdm.ox.ac.uk/people/thomas-milne), and [Jim Hughes](https://www.imm.ox.ac.uk/research/units-and-centres/mrc-wimm-centre-for-computational-biology/groups/hughes-group).  I graduated with an Honours BSc in Biomedical Science specializing in Biostatistics from the University of Ottawa in 2017. 
+Previously I completed my DPhil thesis in Genomic Medicine and Statistics at the University of Oxford under the supervision of Gerton Lunter and Thomas Milne. There I used and developed machine learning methods to understand transcriptional regulation in MLL recombinant leukemia and helped develop a particle filter for demographic inference. Check out my [recent publications](https://scholar.google.com/citations?user=5W10qpIAAAAJ&hl=en) for more information on those and my previous projects. I love to code, both for work and for hobbies, and a semi-complete list of previous publicly available projects is also found on this page.   
 
-Outside of work, I am an avid hiker, coffee enthusiast, and home baker (though the last is a work in progress).
+Outside of work, I love to hike with my dog and be in nature, ideally while holding a nice cup of coffee. I love to cook and bake, and try to run as much as I can. I'm also learning Mandarin Chinese. 
 
 我慢慢学中文在牛津语言中心。 我的女朋友是中国人，我们去了北京。
