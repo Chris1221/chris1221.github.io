@@ -13,7 +13,7 @@ Summaries of previous (and occasionally ongoing) research projects.
 
 #### A particle filter for demographic inference and an ancient back-migration to Africa
 
-This project involved the developed of the SMC2 sequential Monte Carlo sampler to sample ancestral recombination graphs from whole genome sequencing data and infer population demographic parameters, especially directional migration. I used the SMC2 method to show that a particularly impactful period of directional migration existed somewhere between 40,000 and 70,000 years in the past and is present in the histories of many African populations.  
+This project involved the development of the SMC2 sequential Monte Carlo sampler to sample ancestral recombination graphs from whole genome sequencing data and infer population demographic parameters, especially directional migration. I used the SMC2 method to show that a particularly impactful period of directional migration existed somewhere between 40,000 and 70,000 years in the past and is present in the histories of many African populations.  
 
 #### Topic modelling for bulk ATAC-seq applied to MLL-r leukemia
 
