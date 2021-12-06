@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Christopher</strong> Cole
-description: DPhil Student in <a href="http://www.well.ox.ac.uk/home">Genomic Medicine and Statistics</a>, <a href="https://ox.ac.uk">University of Oxford</a>
+description: Genomics and machine learning 
 
 profile:
   align: right
