@@ -16,6 +16,8 @@ description: Some tools that I have developed, or helped to develop.  Stars indi
 	- Install from source.
 - ★ [ancient_african_admixture](https://github.com/Chris1221/ancient_african_admixture) [`python`, `R`, `Snakemake`] Processing pipelines and analysis for all of results shown in Cole et al 2021, currently under review.
 	- This code may be useful for those wanting a real world example of using SMCSMC and is documented, but may change before the publication of my paper.
+- [IMa3_Input](https://github.com/Chris1221/IMa3_Input) [`python`] A Snakemake pipeline for creating IMa3 input from a VCF file via the Popgen Pipeline Platform.
+	- Install from source.
 
 
 #### Deep learning and related:
