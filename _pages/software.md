@@ -29,14 +29,14 @@ Stars indicate projects that I am especially proud of.
 
 ### Genomics:
 
-- [blda](https://github.com/Chris1221/blda) [`python`, `R`] Weighted latent dirichlet allocation for bulk ATAC-seq
-        - Install from Github.
+- [blda](https://github.com/Chris1221/blda) [`python`, `R`] Weighted latent dirichlet allocation for bulk ATAC-seq.
+	- Install from Github.
 - ★ [lanceotron](https://github.com/Chris1221/lanceotron) [`python`] A deep learning model for peak calling of next-generation sequencing data such as ATAC-seq, ChIP-seq, etc.	  
-        - Install from [pip](https://pypi.org/project/lanceotron/1.0.1/)
+	- Install from [pip](https://pypi.org/project/lanceotron/1.0.1/)
 - [scJaccard](https://github.com/Chris1221/scJaccard) [`Rust`] Pure rust computation of the continuous Jaccard index at a single cell level
 	- Install from source.
 - [wgba](https://github.com/Chris1221/wgba) [`python`] Which genome build again? Infers genome build from interval files like bed and bigWig. 
-    - Install from [pip](https://pepy.tech/project/wgba)
+	- Install from [pip](https://pepy.tech/project/wgba)
 
 ### Miscellaneous
 
