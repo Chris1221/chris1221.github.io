@@ -25,14 +25,14 @@ description: Some tools that I have developed, or helped to develop.  Stars indi
 - ★ [genomic_interval_pipeline](https://github.com/Chris1221/genomic_interval_pipeline) [`Rust`] Creates an HDF5 database for Keras out of genomic regions and their annotations. A (much faster) drop in replacement for the Basset pre-processing pipeline. 
 	- Install from [crates.io](https://crates.io/crates/genomic_interval_pipeline).
 - [deepstab](https://github.com/Chris1221/deepstab) [`python`] All in one processing tool and deep learning model to predict RNA stability from sequence. 
-	- The entire pipeline is usable but almost completely undocumented.  
+	- The entire pipeline is usable but almost completely undocumented. 
+- ★ [lanceotron](https://github.com/Chris1221/lanceotron) [`python`] A deep learning model for peak calling of next-generation sequencing data such as ATAC-seq, ChIP-seq, etc.	  
+	- Install from [pip](https://pypi.org/project/lanceotron/1.0.1/) 
 
 #### Genomics:
 
 - [blda](https://github.com/Chris1221/blda) [`python`, `R`] Weighted latent dirichlet allocation for bulk ATAC-seq.
 	- Install from Github.
-- ★ [lanceotron](https://github.com/Chris1221/lanceotron) [`python`] A deep learning model for peak calling of next-generation sequencing data such as ATAC-seq, ChIP-seq, etc.	  
-	- Install from [pip](https://pypi.org/project/lanceotron/1.0.1/)
 - [scJaccard](https://github.com/Chris1221/scJaccard) [`Rust`] Pure rust computation of the continuous Jaccard index at a single cell level
 	- Install from source.
 - [wgba](https://github.com/Chris1221/wgba) [`python`] Which genome build again? Infers genome build from interval files like bed and bigWig. 
