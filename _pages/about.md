@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Christopher</strong> Cole
-description: Genomics and machine learning 
+description: DPhil, Genomic Medicine and Statistics 
 
 profile:
   align: right
@@ -13,7 +13,7 @@ news: true
 social: true
 ---
 
-I am a research scientist at [Deep Genomics](https://deepgenomics.com/) working on computational biology and statistical genetics. Broadly, I'm interested in how we can use machine learning to understand how transcription and translation are regulated. I also have interests in population genetics. 
+I am a research scientist at [Deep Genomics](https://deepgenomics.com/) working on computational biology and statistical genetics. My research interests are, broadly, identifying casual genetic associations with complex disease, using machine learning to understand functional genomics, and designing statistical inference methods for population genetics. 
 
 Previously I completed my DPhil thesis in Genomic Medicine and Statistics at the University of Oxford under the supervision of Gerton Lunter and Thomas Milne. There I used and developed machine learning methods to understand transcriptional regulation in MLL recombinant leukemia and helped develop a particle filter for demographic inference. Check out my [recent publications](https://scholar.google.com/citations?user=5W10qpIAAAAJ&hl=en) for more information on those and my previous projects. I love to code, both for work and for hobbies, and a semi-complete list of previous publicly available projects is also found on this page.   
 
