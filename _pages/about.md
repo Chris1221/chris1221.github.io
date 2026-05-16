@@ -2,21 +2,20 @@
 layout: about
 permalink: /
 title: <strong>Christopher</strong> Cole
-description: DPhil, Genomic Medicine and Statistics 
+description: Lead Scientist, Deep Genomics
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Old city gates in Xi'an</p>
 news: true
 social: true
 ---
 
-I am a research scientist at [Deep Genomics](https://deepgenomics.com/) working on computational biology and statistical genetics. My research interests are, broadly, identifying casual genetic associations with complex disease, using machine learning to understand functional genomics, and designing statistical inference methods for population genetics. 
+I am Lead Scientist and department head of AI-Enabled Target Discovery at [Deep Genomics](https://deepgenomics.com/), where I build and deploy machine learning systems for therapeutic target identification. My work spans foundation model deployment at scale, agentic AI systems for molecular design, and the integration of multi-omic data — including GWAS, single-cell, and electronic health records — to identify causal genetic drivers of complex disease.
 
-Previously I completed my DPhil thesis in Genomic Medicine and Statistics at the University of Oxford under the supervision of Gerton Lunter and Thomas Milne. There I used and developed machine learning methods to understand transcriptional regulation in MLL recombinant leukemia and helped develop a particle filter for demographic inference. Check out my [recent publications](https://scholar.google.com/citations?user=5W10qpIAAAAJ&hl=en) for more information on those and my previous projects. I love to code, both for work and for hobbies, and a semi-complete list of previous publicly available projects is also found on this page.   
+My research interests sit at the intersection of machine learning and human genetics: applying deep learning to understand RNA biology and gene regulation, developing inference methods for functional fine-mapping of genetic associations, and building the computational infrastructure that makes AI useful for experimental scientists. I love to code, both for work and for hobbies, and a semi-complete list of previous publicly available projects is found on this page.
 
-Outside of work, I love to hike with my dog and be in nature, ideally while holding a nice cup of coffee. I love to cook and bake, and try to run as much as I can. I'm also learning Mandarin Chinese. 
+Previously I completed my DPhil in Genomic Medicine and Statistics at the University of Oxford, supervised by Gerton Lunter and Thomas Milne, where I developed machine learning methods for chromatin accessibility in MLL-rearranged leukemia and contributed to a particle filter for demographic inference.
 
-我慢慢学中文在牛津语言中心。 我的女朋友是中国人，我们去了北京。
+Outside of work, I love to hike with my dog and be in nature, ideally while holding a nice cup of coffee. I love to cook and bake, and try to run as much as I can.
