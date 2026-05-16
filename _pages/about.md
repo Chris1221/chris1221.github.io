@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Christopher</strong> Cole, DPhil
+title: "<strong>Christopher</strong> Cole<span class=\"credential\">, DPhil</span>"
 description: Lead Scientist, Deep Genomics
 
 profile:
