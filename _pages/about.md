@@ -12,9 +12,7 @@ news: true
 social: true
 ---
 
-I am Lead Scientist and department head of AI-Enabled Target Discovery at [Deep Genomics](https://deepgenomics.com/), where I build and deploy machine learning systems for therapeutic target identification. My work spans foundation model deployment at scale, agentic AI systems for molecular design, and the integration of multi-omic data — including GWAS, single-cell, and electronic health records — to identify causal genetic drivers of complex disease.
-
-My research interests sit at the intersection of machine learning and human genetics: applying deep learning to understand RNA biology and gene regulation, developing inference methods for functional fine-mapping of genetic associations, and building the computational infrastructure that makes AI useful for experimental scientists. I love to code, both for work and for hobbies, and a semi-complete list of previous publicly available projects is found on this page.
+Hi! My name is Chris and I'm currently a lead scientist at [Deep Genomics](https://deepgenomics.com/), where I manage a small group focused on using genomic AI models for target identification and prioritization. My group builds and deploys systems that combine statistical genetics, machine learning, bioinformatics, and disease biology. My work over the last few years spans foundation model deployment at scale, agentic AI systems, methods development for statistical genetics, and the integration of multi-omic data to identify causal genetic drivers of complex disease. 
 
 Previously I completed my DPhil in Genomic Medicine and Statistics at the University of Oxford, supervised by Gerton Lunter and Thomas Milne, where I developed machine learning methods for chromatin accessibility in MLL-rearranged leukemia and contributed to a particle filter for demographic inference.
 
