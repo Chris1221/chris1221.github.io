@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Christopher</strong> Cole
+title: <strong>Christopher</strong> Cole, DPhil
 description: Lead Scientist, Deep Genomics
 
 profile:
