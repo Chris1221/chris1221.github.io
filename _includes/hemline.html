@@ -45,3 +45,10 @@
   gtag('config', '{{ site.google_analytics }}');
 </script>
 {% endif %}
+
+<script>
+fetch('/version.json').then(r => r.json()).then(d => {
+  const el = document.getElementById('site-version');
+  if (el) el.textContent = d.version;
+}).catch(() => {});
+</script>
