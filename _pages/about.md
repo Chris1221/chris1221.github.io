@@ -6,7 +6,7 @@ description: Lead Scientist, Deep Genomics
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: new_prof_pic.png
   address: >
 news: true
 social: true
