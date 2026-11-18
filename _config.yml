@@ -69,11 +69,17 @@ news_limit: 5
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+sass:
+  sourcemap: never
+  style: compressed
 
 # Includes & excludes
 include: ['_pages']
-exclude: [vendor]
+exclude: [vendor, CLAUDE.md, README.md, LICENSE, bin]
 
 # Plug-ins
 plugins:
