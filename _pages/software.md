@@ -11,6 +11,11 @@ description: Some tools that I have developed, or helped to develop.  Stars indi
 - ★ [artifactum](https://atfm.io) (`atfm`) [`python`] Gives every data file a team produces (datasets, models, results, figures) a permanent ID, and records what it was built from, the code and git commit that made it, and who published it. Flags results built from inputs that have since changed, and tells you what to rerun. Files stay in your own storage; only metadata is recorded. Comes with a plugin so AI coding agents like Claude Code can search the registry and trace lineage.
 	- Install from [Pypi](https://pypi.org/project/artifactum/) (`pip install artifactum`). Source on [Github](https://github.com/atfm-io/artifactum); free to try at [atfm.io](https://atfm.io).
 
+#### Teaching:
+
+- [Fine-map Quest](/finemap-quest/) [`javascript`] A pixel-art game for statistical genetics students: find the causal variants from a simulated GWAS association plot and its LD matrix, and try to beat a stepwise conditional analysis.
+	- Runs in the browser ([source](https://github.com/Chris1221/finemap-quest)); settings and a game code go in the link, so a class can play the same worlds.
+
 #### Population genetics: 
 
 - ★ [smcsmc](https://github.com/luntergroup/smcsmc) [`c++`, `python`] Inference of the ancestral recombination graph and demographic events from whole genome sequence data.
